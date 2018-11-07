@@ -1,6 +1,6 @@
 @font-face {
     font-family: "raleway";
-    src: url('https://github.com/fauziarfian/anilaiku/blob/master/FONT/Raleway-Regular.ttf');
+    src: url('/FONT/Raleway-Regular.ttf');
  }
  html , body {
      max-width: 100%;
